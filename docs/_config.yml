@@ -2,7 +2,7 @@ title:              AKS Engineering Team Blog
 email:              brian.redmond@microsoft.com
 description:        Insights and best practices from the AKS Engineering Team
 author:             Brian Redmond
-baseurl:            ""
+baseurl:            "/AKS"
 url:                ""
 
 remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll

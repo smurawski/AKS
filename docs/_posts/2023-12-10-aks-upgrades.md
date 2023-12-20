@@ -5,6 +5,7 @@ subtitle: "This article explains how to setup automated upgrades in AKS with min
 description: "This article explains how to setup automated upgrades in AKS with minimal disruption to workloads."
 date: 2023-12-10
 author: Kaarthikeyan Subramanian
+background: "/img/posts/06.jpg"
 ---
 
 # AKS Upgrades - Gold Standard Approach

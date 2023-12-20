@@ -1,19 +1,21 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              AKS Engineering Team Blog
+email:              brian.redmond@microsoft.com
+description:        Insights and best practices from the AKS Engineering Team
+author:             Brian Redmond
+baseurl:            ""
+url:                ""
+
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   theakscommunity
+github_username:    Azure/aks
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
